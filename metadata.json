@@ -1,0 +1,6 @@
+{
+  "name": "PM Assignment Masterclass Workspace",
+  "description": "An interactive PM playground and teardown companion to review, polish, and synthesize the 2026 Vocallabs.ai and Subspace.money product intern assignments. Leverages server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
