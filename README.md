@@ -2,7 +2,7 @@
 
 An interactive, high-fidelity portfolio workspace designed to strategically analyze, refine, and teardown core frameworks for **Vocallabs.ai** and **Subspace.money** as part of the Product Intern Assignment.
 
-This repository features structured **Observation → Problem → Actionable Solution** feedback modules across all major product pillars (UX, Features, GTM, Competitor Analysis, and Collaborations) combined with custom live-interactive terminal sandboxes powered by Google Gemini 3.5.
+This repository features structured **Observation → Problem → Actionable Solution** feedback modules across all major product pillars (UX, Features, GTM, Competitor Analysis, and Collaborations) combined with custom live-interactive terminal sandboxes.
 
 View your app in AI Studio: [[https://ai.studio/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a](https://aistudio.google.com/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a?showAssistant=true&showPreview=true&fullscreenApplet=true)]
 
