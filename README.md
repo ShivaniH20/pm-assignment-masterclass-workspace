@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Vocallabs.ai & Subspace.money — Product Intern Teardown Assignment Portfolio
 
 An interactive, high-fidelity portfolio workspace designed to strategically analyze, refine, and teardown core frameworks for **Vocallabs.ai** and **Subspace.money** as part of the Product Intern Assignment.
