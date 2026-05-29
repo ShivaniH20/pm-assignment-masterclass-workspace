@@ -8,7 +8,7 @@ An interactive, high-fidelity portfolio workspace designed to strategically anal
 
 This repository features structured **Observation → Problem → Actionable Solution** feedback modules across all major product pillars (UX, Features, GTM, Competitor Analysis, and Collaborations) combined with custom live-interactive terminal sandboxes powered by Google Gemini 3.5.
 
-View your app in AI Studio: [https://ai.studio/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a](https://ai.studio/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a)
+View your app in AI Studio: [[https://ai.studio/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a](https://aistudio.google.com/apps/d0df9f46-54e7-40fd-91ce-865a8826ee0a?showAssistant=true&showPreview=true&fullscreenApplet=true)]
 
 ---
 
